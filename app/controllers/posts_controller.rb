@@ -70,4 +70,4 @@ class PostsController < ApplicationController
 end
 
 
-#sample comment
+#sample comment added
