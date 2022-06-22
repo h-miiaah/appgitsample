@@ -68,3 +68,6 @@ class PostsController < ApplicationController
       params.require(:post).permit(:title)
     end
 end
+
+
+#sample comment
